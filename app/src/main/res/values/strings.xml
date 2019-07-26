@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day1Basics</string>
+    <string name="str_welcome">Welcome to Android</string>
+    <string name="str_name">Hi, Ankita</string>
+</resources>
