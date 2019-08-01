@@ -34,6 +34,12 @@
         android:hint="Enter Password"
         android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
         android:inputType="textPassword"/>
+    <CheckBox
+        android:id="@+id/rememberMe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Remember Me?"/>
     <Button
         android:id="@+id/btnLogin"
         android:layout_margin="20dp"

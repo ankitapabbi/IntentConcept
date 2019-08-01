@@ -2,4 +2,11 @@
     <string name="app_name">Day1Basics</string>
     <string name="str_welcome">Welcome to Android</string>
     <string name="str_name">Hi, Ankita</string>
+    <array name="color_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+    </array>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.day1basics;
+package com.example.androidprojects;
 
 import android.content.Context;
 
